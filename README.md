@@ -1,6 +1,6 @@
 # Submission Pemda: ETL Pipeline Project
 
-## 📌 **Project Description**
+## **Project Description**
 
 This project is an implementation of an **ETL (Extract, Transform, Load) Pipeline** for web scraping product data from the [Fashion Studio Dicoding](https://fashion-studio.dicoding.dev/) website. The extracted data includes:
 
@@ -15,7 +15,7 @@ After extraction, the data undergoes a transformation process before finally bei
 
 ---
 
-## 📂 **Project Structure**
+## **Project Structure**
 
 ```plaintext
 ETL-Pipeline-Project-main
@@ -38,7 +38,7 @@ ETL-Pipeline-Project-main
 
 ---
 
-## 🚀 **How to Run the Project**
+## **How to Run the Project**
 
 1️⃣ **Clone the repository**
 
